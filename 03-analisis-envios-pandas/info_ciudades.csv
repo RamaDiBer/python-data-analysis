@@ -1,0 +1,9 @@
+Ciudad,Provincia,Region,Habitantes,Distancia_km,Altitud_m,Temperatura_Promedio,Indice_Economico
+La Rioja,La Rioja,NOA,866362,347,1188,19.1,0.62
+Córdoba,Córdoba,Centro,842249,1326,1340,20.4,0.56
+Rosario,Santa Fe,Centro,618754,478,1457,14.1,0.71
+Mendoza,Mendoza,Cuyo,370438,1035,800,11.7,1.09
+Salta,Salta,NOA,505975,585,61,21.8,0.65
+Neuquén,Neuquén,Patagonia,602171,1123,814,24.6,0.85
+Posadas,Misiones,NEA,1448553,1178,1270,21.3,1.01
+Resistencia,Chaco,NEA,223561,1797,946,18.1,0.91
