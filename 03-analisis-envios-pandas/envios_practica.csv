@@ -1,0 +1,81 @@
+Fecha,Guia,Centro,Ciudad,Tipo_Envio,Peso_kg,Tiempo_Entrega_hs,Costo,Estado
+2025-05-25,1000,Centro Norte,Posadas,Express,18.65,51,23855,Retrasado
+2025-05-25,1001,Centro Sur,La Rioja,Express,6.47,66,6150,Cancelado
+2025-05-19,1002,Centro Oeste,Córdoba,Económico,16.73,77,29032,Cancelado
+2025-05-06,1003,Centro Oeste,Neuquén,Normal,10.52,79,6407,Cancelado
+2025-05-20,1004,Centro Oeste,Córdoba,Normal,8.58,36,25155,Entregado
+2025-05-03,1005,,Resistencia,Normal,11.48,77,23832,Entregado
+2025-05-18,1006,Centro Norte,La Rioja,Express,16.43,40,28304,Retrasado
+2025-05-14,1007,Centro Sur,Resistencia,Económico,10.34,73,17492,Entregado
+2025-05-10,1008,Centro Norte,Resistencia,Express,19.75,118,29687,Retrasado
+2025-05-01,1009,Centro Sur,Resistencia,Express,8.87,85,14483,Entregado
+2025-05-04,1010,Centro Norte,Rosario,Express,13.85,93,27756,Entregado
+2025-05-05,1011,Centro Sur,Mendoza,Express,-4.0,85,23275,Cancelado
+2025-05-12,1012,Centro Sur,Resistencia,Normal,10.15,70,18295,Cancelado
+2025-05-15,1013,Centro Sur,Posadas,Normal,10.29,26,27759,Retrasado
+2025-05-11,1014,Centro Norte,Posadas,Económico,19.42,115,22992,Entregado
+2025-05-06,1015,Centro Oeste,La Rioja,Económico,5.55,26,27297,Retrasado
+2025-05-02,1016,Centro Oeste,La Rioja,Express,14.41,16,11879,Entregado
+2025-05-03,1017,Centro Norte,Neuquén,Normal,13.59,88,25969,Cancelado
+2025-05-18,1018,Centro Sur,Rosario,Express,5.84,23,0,Entregado
+2025-05-18,1019,Centro Oeste,Mendoza,Económico,17.9,33,5390,Entregado
+2025-05-11,1020,Centro Oeste,La Rioja,Express,10.32,41,11657,Entregado
+2025-05-23,1021,Centro Norte,Córdoba,Normal,1.06,88,12483,Retrasado
+2025-05-09,1022,Centro Sur,Salta,Express,17.22,47,17306,Entregado
+2025-05-01,1023,Centro Sur,Salta,Express,15.0,30,14199,Retrasado
+2025-05-08,1024,Centro Sur,La Rioja,Normal,7.51,76,4619,Retrasado
+2025-05-11,1025,Centro Sur,Resistencia,Express,7.52,20,10771,Entregado
+2025-05-05,1026,Centro Oeste,Córdoba,Normal,10.66,28,7557,Cancelado
+2025-05-23,1027,Centro Oeste,Córdoba,Normal,6.18,450,28985,Entregado
+2025-05-12,1028,Centro Norte,Córdoba,Express,17.38,116,22528,Entregado
+2025-05-23,1029,Centro Oeste,Córdoba,Económico,10.25,114,29376,Entregado
+2025-05-07,1030,Centro Norte,Córdoba,Normal,19.08,108,15934,Cancelado
+2025-05-24,1031,Centro Oeste,Salta,Económico,3.66,101,15015,Cancelado
+2025-05-02,1032,Centro Norte,Córdoba,Normal,14.69,76,20694,Cancelado
+2025-05-06,1033,Centro Norte,Mendoza,Económico,7.92,105,17680,Entregado
+2025-05-13,1034,Centro Norte,Mendoza,Express,10.28,48,18673,Retrasado
+2025-05-03,1035,Centro Sur,Mendoza,Normal,3.2,42,14324,Entregado
+2025-05-14,1036,Centro Norte,Rosario,Normal,9.99,101,10579,Entrgado
+2025-05-11,1037,Centro Sur,Mendoza,Normal,12.38,118,17606,Retrasado
+2025-05-07,1038,Centro Sur,La Rioja,Económico,9.78,18,19797,Entregado
+2025-05-04,1039,Centro Oeste,Córdoba,Normal,5.59,113,23469,Entregado
+2025-05-12,1040,Centro Sur,La Rioja,Normal,5.51,52,4026,Entregado
+2025-05-16,1041,Centro Sur,Posadas,Express,1.28,111,11757,Retrasado
+2025-05-14,1042,Centro Norte,La Rioja,Express,6.95,21,4751,Entregado
+2025-05-02,1043,Centro Sur,Córdoba,Express,12.07,24,24014,Cancelado
+2025-05-04,1044,Centro Oeste,Salta,Normal,9.98,67,19982,Entregado
+2028-01-15,1045,Centro Oeste,Rosario,Express,5.66,60,16871,Entregado
+2025-05-24,1046,Centro Oeste,Neuquén,Express,18.1,26,18502,Retrasado
+2025-05-01,1047,Centro Norte,Salta,Normal,11.48,81,17425,Cancelado
+2025-05-12,1048,Centro Sur,Salta,Económico,11.14,19,19741,Entregado
+2025-05-06,1049,Centro Norte,Córdoba,Económico,16.85,80,13356,Cancelado
+2025-05-05,1050,Centro Sur,La Rioja,Express,7.13,79,11979,Retrasado
+2025-05-21,1051,Centro Sur,Posadas,Express,13.37,80,21009,Cancelado
+2025-05-12,1052,Centro Oeste,Mendoza,Express,3.12,65,23005,Entregado
+2025-05-12,1053,Centro Sur,Mendoza,Económico,2.8,115,14625,Cancelado
+2025-05-01,1054,Centro Oeste,Neuquén,Express,13.03,99,26203,Cancelado
+2025-05-02,1055,Centro Oeste,Córdoba,Normal,19.28,85,29554,Cancelado
+2025-05-19,1056,Centro Norte,Mendoza,Express,11.17,84,29061,Entregado
+2025-05-12,1057,Centro Sur,Resistencia,Express,19.9,17,10266,Entregado
+2025-05-14,1058,Centro Oeste,Resistencia,Normal,9.69,86,22436,Entregado
+2025-05-16,1059,Centro Sur,Neuquén,Económico,5.72,54,27116,Retrasado
+2025-05-08,1060,Centro Sur,Salta,Económico,0.99,110,29500,Retrasado
+2025-05-09,1061,Centro Norte,Rosario,Económico,19.79,62,9767,Retrasado
+2025-05-23,1062,Centro Norte,La Rioja,Express,17.65,118,6714,Cancelado
+2025-05-22,1063,Centro Sur,Resistencia,Express,10.22,22,18812,Entregado
+2025-05-26,1064,Centro Oeste,Neuquén,Normal,15.68,35,14230,Entregado
+2025-05-06,1065,Centro Norte,Rosario,Económico,5.07,66,13301,Entregado
+2025-05-25,1066,Centro Oeste,Mendoza,Económico,14.48,21,11396,Entregado
+2025-05-13,1067,Centro Sur,Neuquén,Económico,9.89,74,21601,Cancelado
+2025-05-21,1068,Centro Sur,La Rioja,Normal,9.32,40,11130,Entregado
+2025-05-23,1069,Centro Norte,Córdoba,Express,17.17,91,5975,Entregado
+2025-05-04,1010,Centro Norte,Rosario,Express,13.85,93,27756,Entregado
+2025-05-05,1071,Centro Oeste,Posadas,Express,2.58,36,10592,Retrasado
+2025-05-05,1072,Centro Oeste,Neuquén,Express,19.73,37,24089,Retrasado
+2025-05-17,1073,Centro Sur,Córdoba,Económico,16.57,26,21471,Cancelado
+2025-05-12,1074,Centro Oeste,Mendoza,Normal,11.35,21,15317,Entregado
+2025-05-15,1075,Centro Sur,Resistencia,Express,18.12,94,20786,Entregado
+2025-05-11,1076,Centro Sur,Mendoza,Express,8.21,36,9007,Retrasado
+2025-05-08,1077,Centro Oeste,Neuquén,Express,3.58,44,20269,Retrasado
+2025-05-20,1078,Centro Norte,Resistencia,Express,2.19,119,24675,Retrasado
+2025-05-24,1079,Centro Oeste,Rosario,Económico,1.29,103,7693,Entregado

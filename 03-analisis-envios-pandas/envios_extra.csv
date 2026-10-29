@@ -1,0 +1,41 @@
+Fecha,Guia,Centro,Ciudad,Tipo_Envio,Peso_kg,Tiempo_Entrega_hs,Costo,Estado
+2025-06-02,1000,Centro Oeste,La Rioja,Express,18.64,51,24556,Retrasado
+2025-06-26,1001,Centro Norte,Rosario,Normal,1.35,88,10891,Cancelado
+2025-06-14,1002,Centro Norte,Salta,Normal,7.7,34,25561,Retrasado
+2025-06-20,1003,Centro Oeste,Posadas,Express,16.15,51,10892,Entregado
+2025-06-21,1004,Centro Sur,Neuquén,Normal,12.42,81,28776,Cancelado
+2025-06-13,1005,Centro Oeste,Rosario,Económico,7.99,45,28101,Retrasado
+2025-06-04,1006,Centro Norte,La Rioja,Express,11.63,20,24070,Retrasado
+2025-06-08,1007,Centro Oeste,Neuquén,Express,17.51,82,5211,Cancelado
+2025-06-01,1008,Centro Norte,Córdoba,Normal,9.74,68,12453,Retrasado
+2025-06-24,1009,Centro Norte,Neuquén,Express,17.7,78,12978,Retrasado
+2025-06-01,1010,Centro Oeste,Rosario,Económico,6.41,76,20680,Cancelado
+2025-06-09,1011,Centro Sur,Salta,Express,15.52,110,11850,Entregado
+2025-06-04,1012,Centro Sur,Salta,Express,10.08,108,23089,Cancelado
+2025-06-03,1013,Centro Norte,Neuquén,Normal,8.3,68,5471,Retrasado
+2025-06-06,1014,Centro Norte,La Rioja,Normal,9.71,21,27054,Retrasado
+2025-06-26,1015,Centro Norte,Mendoza,Económico,19.79,94,16195,Entregado
+2025-06-11,1016,Centro Oeste,Neuquén,Express,4.49,78,13243,Retrasado
+2025-06-01,1017,Centro Norte,Rosario,Económico,9.32,58,19581,Retrasado
+2025-06-01,1018,Centro Sur,Neuquén,Express,7.83,59,29677,Entregado
+2025-06-24,1019,Centro Oeste,Córdoba,Express,13.95,115,24943,Entregado
+2025-06-25,1020,Centro Oeste,Córdoba,Económico,12.28,73,13517,Retrasado
+2025-06-17,1021,Centro Oeste,Salta,Económico,7.53,114,17488,Entregado
+2025-06-18,1022,Centro Oeste,Neuquén,Económico,8.9,102,22303,Cancelado
+2025-06-14,1023,Centro Oeste,Rosario,Express,12.23,117,19316,Cancelado
+2025-06-11,1024,Centro Oeste,Posadas,Normal,2.99,114,8948,Retrasado
+2025-06-13,1025,Centro Norte,La Rioja,Económico,10.46,90,16416,Cancelado
+2025-06-05,1026,Centro Sur,Rosario,Económico,10.95,46,26270,Retrasado
+2025-06-02,1027,Centro Norte,Rosario,Económico,19.79,68,27011,Entregado
+2025-06-19,1028,Centro Norte,Posadas,Express,17.05,28,25477,Entregado
+2025-06-11,1029,Centro Norte,Neuquén,Normal,12.2,38,11826,Retrasado
+2025-06-09,1030,Centro Oeste,Rosario,Normal,15.89,45,13578,Cancelado
+2025-06-18,1031,Centro Norte,La Rioja,Económico,1.84,120,12161,Retrasado
+2025-06-23,1032,Centro Sur,Posadas,Normal,7.75,49,15403,Retrasado
+2025-06-05,1033,Centro Norte,Salta,Normal,7.24,40,25155,Entregado
+2025-06-20,1034,Centro Norte,Neuquén,Express,11.15,35,20335,Retrasado
+2025-06-06,1035,Centro Sur,La Rioja,Normal,6.75,15,25426,Retrasado
+2025-06-03,1036,Centro Sur,Posadas,Express,19.51,57,7797,Retrasado
+2025-06-08,1037,Centro Norte,Mendoza,Económico,15.24,119,26519,Entregado
+2025-06-11,1038,Centro Sur,Mendoza,Normal,14.9,36,18369,Cancelado
+2025-06-24,1039,Centro Oeste,Neuquén,Normal,14.44,67,18744,Cancelado
